@@ -103,14 +103,6 @@ The simulation includes:
 - World inspector (provided by bevy-inspector-egui)
 - Automatic pause when numerical instabilities are detected
 
-## License
-
-[Insert your license information here]
-
-## Contributing
-
-[Insert contribution guidelines here]
-
 ## Acknowledgments
 
 - The Bevy open-source community
